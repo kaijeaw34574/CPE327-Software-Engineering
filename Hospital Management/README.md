@@ -1,4 +1,4 @@
-# Project Hospital Management
+# Hospital Management Project
 
 Here this gathers code, database, and documents necessary about a website for managing patient appointments, for learning about software engineering and teamwork through the software process.
 
